@@ -12,8 +12,8 @@
   },
 
   "route": {
-    "controller": "true",
-    "template": "true"
+    "controller": "false",
+    "template": "false"
   },
 
   "generator": {
